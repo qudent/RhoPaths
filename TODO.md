@@ -1,3 +1,6 @@
+Change rho, sigma, pi to rho_xyz particularly for faulty ops
+
+
 Selling points: sell that no reverse queries are needed
 
 
