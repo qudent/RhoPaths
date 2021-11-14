@@ -1,3 +1,5 @@
+I can prove some lemmas about reachable sets as well, and output conditions.
+
 Revenge of the polynomial method: Upper-bounding the adversary bound's tightness
 Symmetric problems admit symmetric optimal solutions
 
