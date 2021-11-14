@@ -1,4 +1,11 @@
+TODO for what's left in this version: error analysis, fourier transform, gap in semidef dual
+
+
+replace manual entries of sections by automatic ones.
+
 I can prove some lemmas about reachable sets as well, and output conditions.
+
+replace "in a future version", write
 
 Revenge of the polynomial method: Upper-bounding the adversary bound's tightness
 Symmetric problems admit symmetric optimal solutions
