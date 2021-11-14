@@ -28,3 +28,12 @@ define space X' Hilbert space without idle subspace in the beginning, or just in
 introduce notation L(H), H(H) or so explicitly?
 
 to remember: acti
+
+TODO IS THERE CONTEΧΤ ΗΕLP FOR SYMBOLS?
+
+Fourier
+WARNING this part not yet written down in LaTeX, and may therefore be wrong. For a more concrete application - and to demonstrate how symmetry arguments can be used to simplify the problem - I discuss a model of the phase estimation problem. If the problem formulation is invariant under phase shifts, one can assume w.l.o.g that an optimal solution exhibits the same symmetry by a group-averaging argument and convexity. Then the Gram matrices involved are circulant, and the conversion problem turns into a time-optimal transport problem of the probability mass in Fourier space. TODO WRIT/DeVELOP RESULTS ON OUTPUT CONDITIONS, TODo group averaging actually isnt necessary for this particular problem? TOMAYBEDO it seems the Fourier transform trick can be easily generalized to Fourier transforming over other symmetry groups?
+
+We can check whether arbitrary posterior probability distributions of phases are feasible given a certain budget of queries by semidefinite programming constraints.???
+
+We apply the algorithm-bound duality to achieve 
