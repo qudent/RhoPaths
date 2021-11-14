@@ -1,4 +1,5 @@
 Revenge of the polynomial method: Upper-bounding the adversary bound's tightness
+Symmetric problems admit symmetric optimal solutions
 
 Change rho, sigma, pi to rho_xyz particularly for faulty ops
 
