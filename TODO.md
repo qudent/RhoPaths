@@ -1,5 +1,5 @@
 TODO for what's left in this version: error analysis, fourier transform, gap in semidef dual
-
+Is it correct that adv bound opt size may be bounded exponential in truth table? if yes, would it be pointless??
 
 replace manual entries of sections by automatic ones.
 
