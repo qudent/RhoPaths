@@ -1,4 +1,4 @@
-# Quantum query algorithms as evolutions of reduced super-states
+# The Adversary Bound Revisited: From Optimal Query Algorithms to Optimal Control
 
 A discussion of quantum query algorithms - and the adversary lower bound - as evolutions of reduced density operators in certain multipartite systems. Currently contained in the HTML file.
 
